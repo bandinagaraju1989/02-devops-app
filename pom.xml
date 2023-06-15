@@ -37,7 +37,10 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-
+<groupId>org.springframework.boot</groupId>
+			<artifactId>spring context</artifactId>
+			<scope>test</scope>
+		</dependency>
 	<build>
 		<plugins>
 			<plugin>
