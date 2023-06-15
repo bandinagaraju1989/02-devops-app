@@ -41,6 +41,13 @@
 			<artifactId>spring context</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+</dependency>
+	</dependencies>
+<groupId>org.springframework.boot</groupId>
+			<artifactId>spring context2.0</artifactId>
+			<scope>test</scope>
+		</dependency>
 	<build>
 		<plugins>
 			<plugin>
